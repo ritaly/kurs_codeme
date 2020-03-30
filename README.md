@@ -1,4 +1,6 @@
-# kurs_codeme
+# Kurs CODE:ME 
+
+Repozytorium zawiera zadania z zajęć Python od podstaw
 
 1. Wstęp
 2. Typy i zmienne
